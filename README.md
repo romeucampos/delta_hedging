@@ -1,7 +1,7 @@
 
-#Delta Hedge Deribit
+# Delta Hedge Deribit
 
-##install
+## install
 
 ```bash
 git clone https://github.com/romeucampos/delta_hedging.git
