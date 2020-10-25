@@ -1,7 +1,7 @@
 
-#Delta Hedge Deribit
+# Delta Hedge Deribit
 
-##install
+## install
 
 ```bash
 git clone https://github.com/romeucampos/delta_hedging.git
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Make the synthetic straddle or buy call or buy put.
 2. Run the script.
  ```bash
-python3 delta_hedging
+python delta_hedging.py
 2020-10-15 08:08:53 - Delta: -0.0012 - LN: -0.19% - Last trade: 11341.5 - Last ticker: 11320.0
 2020-10-15 08:08:59 - Delta: -0.0013 - LN: -0.19% - Last trade: 11341.5 - Last ticker: 11320.0
 2020-10-15 08:09:05 - Delta: -0.0013 - LN: -0.19% - Last trade: 11341.5 - Last ticker: 11320.0
