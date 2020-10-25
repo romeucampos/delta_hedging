@@ -3,5 +3,7 @@
     "SECRET": "z8MAadPGXqJDKH5__SBXMg0D7Ip7KhfwLvEZQ6aE3Nc",
     "AMPLITUDE": 1.5,
     "SYMBOL": "BTC-PERPETUAL",
+    "INITIAL_HEDGER": true,
+    "TIME_LOOP" : 10,
     "URL_TEST": true
 }
