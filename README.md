@@ -13,11 +13,12 @@ pip install -r requirements.txt
 
 ```json
 {
-    "KEY": "api_key",
-    "SECRET": "api_secret",
+    "KEY": "XvkLkkEY",
+    "SECRET": "z8MAadPGXqJDKH5__SBXMg0D7Ip7KhfwLvEZQ6aE3Nc",
     "AMPLITUDE": 1.5,
     "SYMBOL": "BTC-PERPETUAL",
-    "INITIAL_HEDGER": false,
+    "INITIAL_HEDGER": true,
+    "TIME_LOOP" : 10,
     "URL_TEST": true
 }
 ```
