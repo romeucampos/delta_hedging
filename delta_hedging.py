@@ -4,7 +4,7 @@ import logging
 from math import log
 
 from deribit_api import RestClient, requests
-# teste
+# teste1
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
 
